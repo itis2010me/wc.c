@@ -1,0 +1,43 @@
+The Verge
+Weekly(15th) progress report
+
+This document was made available for the people who are interested in how we evaluate and improve the content that goes onto The Verge, some confidential information has been removed, but this document still carries the majority of what goes into a progress report for an editor at the verge.
+	
+Employee name: Jay Peters
+Employee ID: xxxx-xx-xxx
+Publication: Another 500 million accounts have leaked online, and LinkedIn’s in the hot seat
+Date and time of publication: April 8th, 2021, 7:47pm EDT
+Subcategories: Tech - LinkedIn - Cybersecurity 
+---------------------------------------------------------------------------------------------------------------------
+Section 1 - Prepublication knowledge evaluation. 
+For a web post to be successful on The Verge, before the publication, we expect that the author understands the context you are writing in, audience you are writing to and your general purpose. Together, the author should put him/herself into an appropriate persona to put yourself into. Whether the author has successfully executed this task should be reflected in the style choices made when composing the article. 
+Evidence of strength
+Good understanding of the primary and secondary audience of the paper. 
+An article under the subsection of tech and cybersecurity would normally receive its primary audience in the form of tech enthusiasts, industry and academia professionals. In this cast, the use of tech jargons and the assumption of knowledge within the field from the audience would be expected. This was reflected in Peters’ article where the phrase “scraped data” was used and reference about recent cyberattack regarding Facebook was made. Clearly, Peters understands his audience very well and made specific adjustments accordingly as well. In addition, since The Verge will not be limited to a specific population, the secondary audience should be the general internet population, who might come across this article through a series of linked, websites or youtube videos. In order to keep the article readable and appropriate for the general public, Peters did not overuse tech jargons, rather kept the amount of that is just right and informative for the professionals and fast and easy to read for the casual readers. 
+
+Areas of improvement.
+Although Peters made a significant effort in terms of background work before this  publication, we couldn’t not effectively identify Peters’ primary purpose of this article. Could it be to raise awareness of a recently alleged huge data leak inna major internet company? Or to inform the general public about potential threats to the general mass.  Reading through the article we sense a subtle inclusion of personal opinion about the subject matter, where Peters discredited LinkedIn’s public statement about the data leak. With this, it might be that Peters is skeptical about using this general information based social media(LinkedIn). With these points, it is a bit unclear what Peter’s primary intention was.
+
+Section 2 - Deep insight into language or style choices. 
+We analyze the article and its effectiveness through the scope of the following areas, Language & style, Genre & format, voices, claims & evidence, and outside sources.
+Language and style 
+The study of the background of this given article can provide information about how to format this type of article. First, Peters used a Combination of complex and conditional sentences used in the article. The parentheses in the latter part of the passage added additional information about a similar company - Facebook - going through a similar issue. 
+The passage can feel as deceiving and boring if it only consisted of a streamline of simple sentences, where it can feel like reading a bullet point list. Complex and conditional sentences can allow the reader to go through the same logical progression of the writer and therefore follow the main claim much better. The additional information about Facebook, which majority if not all of the audience would have used at some point, might just convince the audience about the seriousness of the data leak if they had not already been convinced. In addition, Peters wrote this article in second-person and third-person point of view. The starting word ‘You’ as evidence. Third-person perspective was used when Peters is making logical interpretations about the paraphrased evidence. The combination of the two different perspectives created a conversation-like environment when reading, and it can lead to more engagement and attention contributed by the audience than a general informative or academic style paper. 
+Genre & format
+The Genre should be governed by how you would like to format your ideas so that it can communicate with the audience in an effective way. Since the audience should all have an expectation of the flow and construction of a certain genre, it is imperative that the author follows those rules wherever possible. 
+Peters kept the title of the article straightforward and blunt to the spot. Also, it is in the form of a statement that can be quite alarming when seeing. 
+The publication platform The Verge has many different eye-catching news articles every day, and usually the audience of The Verge is usually demanding interesting, relatable news, and they are usually in a rush when reading news. Having a straightforward and alarming title can be the deciding factor of the viewership of the article. 
+Voices
+Previous knowledge about the subject matter can greatly affect the way voices are used in this context, and in turn affect the effectiveness of the article when published. In the beginning of the article, Peters brought a direct paraphrase provided from CyberNews. We believe that this combined with the overall second-person perspective, made the article flow similarly like a conversation between the audience and the writer. This makes the paper more engaging, bringing the audience closer to the writer and also can ensure the audience does not feel distanced about the situation and they can quickly reflect how they are related and affected individually. 
+
+Claims & evidence 
+If the claims in the article cannot be backed up with evidence, then the author would not have done a good job in persuading the audience about his/her claim. 
+There is a direct quotation from the statement that LinkedIn made regarding the issue discussed, and following that a paraphrased statement demonstrating the company’s stance on the subject. 
+The difference between the two evidences was the first one was about what kind of data was leaked, while the second was about what kind of data that wasn’t leaked. It is to the interest of the audience that knowing what data wasn’t leaked is much better. Yet, the second evidence was paraphrased in a way that made it sound shaky and unsubstantial. This was a hint that your writing decisions will direct your audience to pay more attention to some aspects of the issue discussed while ignoring the others.
+
+Outside sources
+Often we require posts to include at least one outside source, as this can substantiate the claim. In Peters’ passage,There is a direct quotation from the statement that LinkedIn made regarding the issue discussed, and following that a paraphrased statement demonstrating the company’s stance on the subject.difference between the two evidences was the first one was about what kind of data was leaked, 
+where second was about what kind of data that wasn’t leaked. It is to the interest of the audience that knowing what data wasn’t leaked is much better. 
+
+Section 3 - Conclusion 
+After carefully review of your article, we like to inform you that you maintained the standard we seek in your writing, you carefully followed the rules about rhetorical choices based on your pre production thoughts, although the purpose can be interpreted differently with different perspective, it still served the purpose that it raise awareness of cybersecurity to the general audience of The Verge.
