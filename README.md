@@ -7,3 +7,6 @@ Support muliple flags, even repeated.
 - -w for words
 - -l for lines
 
+For Makefile,
+- `make update` will clean and then compile.
+- `make clean` and `make` still apply.
