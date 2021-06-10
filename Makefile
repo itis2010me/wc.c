@@ -1,13 +1,14 @@
 CC=gcc
 FLAGS=-Wall -Werror
 
-all: wc.o
+all: wc
 
-wc.o: wc.c
-	$(CC) $(FLAGS) -o wc wc.c
+wc: wc.c
+	$(CC) $(FLAGS) -o $@ $^
 
 clean:
 	rm -f wc
+	rm -f *.o
 
 update:
 	make clean
